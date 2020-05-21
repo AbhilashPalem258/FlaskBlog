@@ -11,6 +11,7 @@ pytz = "==2020.1"
 flask = "*"
 flask-wtf = "*"
 email-validator = "*"
+flask-sqlalchemy = "*"
 
 [requires]
 python_version = "3.7"
